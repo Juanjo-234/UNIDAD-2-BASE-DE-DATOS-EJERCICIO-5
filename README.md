@@ -12,3 +12,4 @@ El sistema debe permitir registrar:
 - Alumnos: datos de los estudiantes que se inscriben.
 - Inscripciones: relacionan a los alumnos con las comisiones e incluyen la condición final (Regular, Libre o Promocionado) y las notas de los exámenes parciales.
 También se deben establecer las relaciones y cardinalidades entre las entidades, incluyendo la relación recursiva de las correlatividades y la relación muchos a muchos entre alumnos y comisiones.
+<img width="2632" height="1572" alt="EJERCICIO 5 drawio" src="https://github.com/user-attachments/assets/095f90d9-2409-4096-8fb5-c627eeeaabec" />

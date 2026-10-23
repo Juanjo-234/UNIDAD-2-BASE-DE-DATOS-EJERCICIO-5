@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="83-qOqmgT9ROE8VFJrXp">
-    <mxGraphModel dx="2330" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2953" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,11 +64,20 @@
             <mxPoint x="1060" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YtH1ddSyLWjvWvZ-NGWM-2" edge="1" parent="1" source="IMKd-L-80ke6C44Dh4XD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="IMKd-L-80ke6C44Dh4XD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IMKd-L-80ke6C44Dh4XD-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="NOMBRE" vertex="1">
           <mxGeometry height="40" width="120" x="1310" y="880" as="geometry" />
         </mxCell>
+        <mxCell id="YtH1ddSyLWjvWvZ-NGWM-1" edge="1" parent="1" source="IMKd-L-80ke6C44Dh4XD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="IMKd-L-80ke6C44Dh4XD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IMKd-L-80ke6C44Dh4XD-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="ID_PLAN" vertex="1">
           <mxGeometry height="40" width="120" x="1160" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="YtH1ddSyLWjvWvZ-NGWM-3" edge="1" parent="1" source="IMKd-L-80ke6C44Dh4XD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="IMKd-L-80ke6C44Dh4XD-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IMKd-L-80ke6C44Dh4XD-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="AÑO_VIGENCIA" vertex="1">
           <mxGeometry height="40" width="120" x="1450" y="880" as="geometry" />
@@ -155,15 +164,6 @@
         </mxCell>
         <mxCell id="IMKd-L-80ke6C44Dh4XD-64" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="ID_EVALUACION" vertex="1">
           <mxGeometry height="40" width="140" x="2920" y="1310" as="geometry" />
-        </mxCell>
-        <mxCell id="IMKd-L-80ke6C44Dh4XD-66" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="NUMERO_ORDEN" vertex="1">
-          <mxGeometry height="40" width="140" x="2480" y="790" as="geometry" />
-        </mxCell>
-        <mxCell id="IMKd-L-80ke6C44Dh4XD-68" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="SKU" vertex="1">
-          <mxGeometry height="40" width="140" x="2640" y="790" as="geometry" />
-        </mxCell>
-        <mxCell id="IMKd-L-80ke6C44Dh4XD-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="CANTIDAD" vertex="1">
-          <mxGeometry height="40" width="140" x="2800" y="790" as="geometry" />
         </mxCell>
         <mxCell id="IMKd-L-80ke6C44Dh4XD-125" edge="1" parent="1" source="IMKd-L-80ke6C44Dh4XD-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="IMKd-L-80ke6C44Dh4XD-3">
           <mxGeometry relative="1" as="geometry" />
